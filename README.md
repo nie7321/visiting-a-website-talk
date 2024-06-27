@@ -4,3 +4,7 @@ This is a long-ish deck explaining many of the things that have to occur when yo
 It was created as a gag in Google Slides, so there's no markdown source, sorry. 
 
 I usually have extensive presenter notes as a reference for reviewing the deck after; in this case they don't work well, since this is meant to be more off-the-cuff and go off on strange tangents and side stories, depending on what the audience is interested in. So you'll just have to treasure those memories forever, if you were lucky enough to attend this.
+
+## History
+- Presented at [EACDcon](https://eacdcon.entapp.northwestern.edu), 2024-02-27
+- Presented at [Early Careers in Technology](https://www.it.northwestern.edu/about/dei/affinity-groups/ect.html), 2024-07-27
